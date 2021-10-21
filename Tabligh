@@ -1,6 +1,6 @@
 {
   "تبلیغ": "فعال",
-  "عکس": "Glide.with(getApplicationContext()).load(Uri.parse("file:///android_asset/https://s4.uupload.ir/files/fontwall.clip_[f19362a]_7qtk.gif")).into(imageview1);",
+  "عکس": "("file:///android_asset/https://s4.uupload.ir/files/fontwall.clip_[f19362a]_7qtk.gif")).into(imageview1);",
   "لینک": "https://rubika.ir/FontWall",
   "متن": "به کانال اصلی ما در پیامرسان روبیکا بپیوندید."
 }
