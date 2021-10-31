@@ -1,8 +1,10 @@
-{
-  "عکس۱": "https://s4.uupload.ir/files/new_project_[422d099]_177n.png",
-  "کلیک۱": "rubika://l.rubika.ir/FontWall",
-  "عکس۲": "https://s4.uupload.ir/files/new_project_[452d98d]_lbd7.png",
-  "کلیک۲": "rubika://l.rubika.ir/FontWall",
-  "عکس۳": "https://s4.uupload.ir/files/new_project_[d02cc80]_2fnw.png",
-  "کلیک۳": "rubika://l.rubika.ir/FontWall"
-}
+[
+  {
+   "عکس۱": "https://s4.uupload.ir/files/new_project_[422d099]_177n.png",
+   "کلیک۱": "rubika://l.rubika.ir/FontWall",
+   "عکس۲": "https://s4.uupload.ir/files/new_project_[452d98d]_lbd7.png",
+   "کلیک۲": "rubika://l.rubika.ir/FontWall",
+   "عکس۳": "https://s4.uupload.ir/files/new_project_[d02cc80]_2fnw.png",
+   "کلیک۳": "rubika://l.rubika.ir/FontWall"
+  }
+]
